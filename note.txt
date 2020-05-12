@@ -1,0 +1,15 @@
+szétválasztás,  kamera poziciok, hasznos terulet
+
+trackelés, x framenként
+
+aszfalt értéke
+
+
+scale inver
+sift
+
+
+
+sejtek összeragadassa,trackelese
+
+distancemap touching objects
