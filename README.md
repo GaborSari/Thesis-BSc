@@ -6,7 +6,7 @@
 Szegedi Tudományegyetem <br/> Informatikai Intézet
 </h1>
 <p>
-Az dolgozat alapvetően az online azonnali feldolgozásra épít, tiszta, egyértelmű objektumokat képes követni, összehasonlítani, és előrejelzést készíteni a múltbéli mozgásuk alapján. Mindezt egy általános, autonóm, nem specializált rendszerként próbáltam implementálni, ennek a céljára igyekeztem részletes paraméterezést biztosítani a programban, illetve a rendszer felépítését átláthatóbbá, és könnyen kezelhetővé tenni.
+A dolgozat alapvetően az online azonnali feldolgozásra épít, tiszta, egyértelmű objektumokat képes követni, összehasonlítani, és előrejelzést készíteni a múltbéli mozgásuk alapján. Mindezt egy általános, autonóm, nem specializált rendszerként próbáltam implementálni, ennek a céljára igyekeztem részletes paraméterezést biztosítani a programban, illetve a rendszer felépítését átláthatóbbá, és könnyen kezelhetővé tenni.
 A tesztelés során igyekeztem különböző tematikájú és helyzetű videókat használni, az ebben a fejezetben bemutatott képek a megfelelően konfigurált program futtatási eredményei.
 A program képes mozgás alapján felismerni és követni objektumokat rögzített kamera szögből.
 </p>
